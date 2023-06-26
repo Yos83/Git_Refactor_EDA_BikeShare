@@ -8,7 +8,7 @@ import numpy as np
     Project: Explore US Bikeshare Data
     Due Date: June 22, 2023
     Data Analyst Nanodegree from Udacity
-    Adding a test note to asses changes in branches for Project3
+  
 """
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york': 'new_york_city.csv',
