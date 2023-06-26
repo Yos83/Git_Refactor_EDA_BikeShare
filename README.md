@@ -1,4 +1,4 @@
-# Udacity-Programming-For-Data-Science-With-Python-Nanodegree
+# Udacity Nanodegree: Programming for Data Science with Python
 ### Created by Yosmery Gonzalez
 ### June 2023
 
