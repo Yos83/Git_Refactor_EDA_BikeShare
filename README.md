@@ -1,13 +1,13 @@
 # Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-## Created by Yosmery Gonzalez
-# June 2023
+### Created by Yosmery Gonzalez
+### June 2023
 
 
 This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
 
 
 ## Project 1 : Investigate a Relational Database
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%201
+[https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%201](https://github.com/Yos83/Udacity_Project3/tree/main/Project1)
 
 ### Overview:
 
@@ -15,7 +15,7 @@ This project consisted in the exploration of a provided database movie rentals i
 
 
 ## Project 2 : Explore US Bikeshare Data
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%202
+[https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%202](https://github.com/Yos83/Udacity_Project3/tree/main/Project2)
 
 ### Overview:
 
@@ -25,7 +25,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 
 ## Project 3 : Post your Work on GitHub
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main
+[https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main](https://github.com/Yos83/Udacity_Project3/tree/main)
 
 ### Overview:
 
