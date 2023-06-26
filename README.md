@@ -13,12 +13,6 @@ https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%
 
 This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
 
-For the presentation component, the student had to create four slides, and each should have 
-* A question of interest.
-* A supporting SQL query needed to answer the question.
-* A supporting visualization created using the final data of the SQL queries that answer the questions of interest.
-* A small summary on each slide.
-
 
 ## Project 2 : Explore US Bikeshare Data
 https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%202
