@@ -1,35 +1,62 @@
-# Udacity-Programming-For-Data-Science-With-Python-Nanodegree
-## Created by Yosmery Gonzalez
-# June 2023
+# Basic Data Exploration with pandas on Bikeshare Data
+_A Python project using pandas to explore bikeshare data._
 
+# Project Overview
 
-This repository contains projects did for Udacity Programming For Data Science With Python Nanodegree.
+This project focuses on pandas library usage and simple statistics methods to perform descriptive analysis on the bikeshare data from three major U.S. cities - Chicago, Washington, and New York City - to display information such as most popular days or most common stations.
 
+### Running the program
 
-## Project 1 : Investigate a Relational Database
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%201
+You can input 'python bikeshare.py' on your terminal to run this program. I use Anaconda's command prompt on a Windows 10 machine.
 
-### Overview:
+### Program Details
 
-This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries. 
+The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
 
+Upon receiving the user input, it goes ahead and asks the user if they want to view the raw data (5 rows of data initially) or not. Following the input received, the program prints the following details:
 
-## Project 2 : Explore US Bikeshare Data
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%202
+* Most popular month
+* Most popular day
+* Most popular hour
+* Most popular start station
+* Most popular end station
+* Most popular combination of start and end stations
+* Total trip duration
+* Average trip duration
+* Types of users by number
+* Types of users by gender (if available)
+* The oldest user (if available)
+* The youngest user (if available)
+* The most common birth year amongst users (if available)
 
-### Overview:
+Finally, the user is prompted with the choice of restarting the program or not.
 
-In this project, you will make use of Python to explore data related to bike share systems for three major cities in the United States—Chicago, New York City, and Washington. You will write code to import the data and answer interesting questions about it by computing descriptive statistics. You will also write a script that takes in raw input to create an interactive experience in the terminal to present these statistics.
+# Requirements
 
-The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.
+* Language: Python 3.6 or above
+* Libraries: pandas, numpy, time
 
+# Project Data
 
-## Project 3 : Post your Work on GitHub
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main
+* chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
-### Overview:
+* new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
 
-This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+* washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 
-The Project Submission consisted in the filling of a template with all the Git commands used to perform the requested tasks.
+# Built with
 
+* [Python 3.6.6](https://www.python.org/) - The language used to develop this.
+* [pandas](https://pandas.pydata.org/) - One of the libraries used for this.
+* [numpy](http://www.numpy.org/) - One of the libraries used for this.
+* [time](https://docs.python.org/2/library/time.html) - One of the libraries used for this.
+
+# Author
+Yosmery Gonzalez https://github.com/Yos83
+
+# Acknowledgements
+
+* [xhlow](https://github.com/xhlow) - xhlow's repository helped with understanding the structure and details of certain functions.
+* [philribbens](https://github.com/philribbens) - philribben's repository also added to better understanding of the structure for this project.
+* [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
+* [Udacity](https://udacity.com) - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
