@@ -13,9 +13,6 @@ This project focuses on pandas library usage and simple statistics methods to pe
 
 You can input 'python bikeshare.py' on your terminal to run this program. I use Anaconda's command prompt on a Windows 10 machine.
 
-## Project 1 : Investigate a Relational Database
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%201
-
 ### Program Details
 
 The program takes user input for the city (e.g. Chicago), month for which the user wants to view data (e.g. January; also includes an 'all' option), and day for which the user wants to view data (e.g. Monday; also includes an 'all' option).
@@ -37,9 +34,6 @@ Upon receiving the user input, it goes ahead and asks the user if they want to v
 * The youngest user (if available)
 * The most common birth year amongst users (if available)
 
-## Project 2 : Explore US Bikeshare Data
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main/Project%202
-
 
 Finally, the user is prompted with the choice of restarting the program or not.
 
@@ -53,9 +47,6 @@ Finally, the user is prompted with the choice of restarting the program or not.
 * new_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
 * washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 * chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
-
-## Project 3 : Post your Work on GitHub
-https://github.com/Yos83/Udacity-programming-for-Data-Science/tree/main
 
 
 # Built with
